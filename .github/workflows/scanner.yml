@@ -34,6 +34,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add alerted_strikes.json
+          git add reference_premiums.json
           git commit -m "Alerted strikes update - $(date)" || echo "No changes"
           git pull --rebase origin main
           git push

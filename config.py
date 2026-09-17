@@ -18,8 +18,7 @@ INDICES = {
         "has_weekly": True,
         "has_monthly": True,
         "spike_threshold": 15,
-        "otm_strikes": 10,
-        "itm_strikes": 5,
+        "strike_range": 30,
     },
     "BANKNIFTY": {
         "underlying_key": "NSE_INDEX|Nifty Bank",
@@ -27,8 +26,7 @@ INDICES = {
         "has_weekly": False,   # SEBI Nov-2024 circular prayakaram, monthly mattum
         "has_monthly": True,
         "spike_threshold": 15,
-        "otm_strikes": 10,
-        "itm_strikes": 5,
+        "strike_range": 60,
     },
     "SENSEX": {
         "underlying_key": "BSE_INDEX|SENSEX",
@@ -36,8 +34,7 @@ INDICES = {
         "has_weekly": True,    # Thursday expiry
         "has_monthly": True,
         "spike_threshold": 15,
-        "otm_strikes": 10,
-        "itm_strikes": 5,
+        "strike_range": 80,
     },
     "FINNIFTY": {
         "underlying_key": "NSE_INDEX|Nifty Fin Service",
@@ -45,8 +42,7 @@ INDICES = {
         "has_weekly": False,   # monthly mattum
         "has_monthly": True,
         "spike_threshold": 15,
-        "otm_strikes": 10,
-        "itm_strikes": 5,
+        "strike_range": 30,
     },
 }
 

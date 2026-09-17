@@ -1,182 +1,26 @@
 {
   "NIFTY_WEEKLY": {
     "NSE_FO|56985": {
-      "premium": 117.85,
+      "premium": 127.4,
       "strike": 23300.0,
       "option_type": "CE",
       "moneyness": "OTM"
     },
-    "NSE_FO|56995": {
-      "premium": 92.9,
-      "strike": 23350.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56999": {
-      "premium": 71.75,
-      "strike": 23400.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|57003": {
-      "premium": 54.25,
-      "strike": 23450.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|57007": {
-      "premium": 40.15,
-      "strike": 23500.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|57023": {
-      "premium": 29.2,
-      "strike": 23550.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|57031": {
-      "premium": 20.85,
-      "strike": 23600.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|57052": {
-      "premium": 14.9,
-      "strike": 23650.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|57063": {
-      "premium": 10.55,
-      "strike": 23700.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|57082": {
-      "premium": 7.6,
-      "strike": 23750.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56957": {
-      "premium": 292.2,
-      "strike": 23050.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|56967": {
-      "premium": 251.4,
-      "strike": 23100.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|56978": {
-      "premium": 214.0,
-      "strike": 23150.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|56980": {
-      "premium": 178.65,
-      "strike": 23200.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
     "NSE_FO|56983": {
-      "premium": 146.0,
+      "premium": 158.0,
       "strike": 23250.0,
       "option_type": "CE",
       "moneyness": "ITM"
     },
-    "NSE_FO|56934": {
-      "premium": 15.15,
-      "strike": 22800.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56936": {
-      "premium": 18.5,
-      "strike": 22850.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56938": {
-      "premium": 22.6,
-      "strike": 22900.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56948": {
-      "premium": 27.65,
-      "strike": 22950.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56956": {
-      "premium": 34.5,
-      "strike": 23000.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56966": {
-      "premium": 42.35,
-      "strike": 23050.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56977": {
-      "premium": 52.3,
-      "strike": 23100.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56979": {
-      "premium": 64.25,
-      "strike": 23150.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|56981": {
-      "premium": 79.1,
-      "strike": 23200.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
     "NSE_FO|56984": {
-      "premium": 97.35,
+      "premium": 81.25,
       "strike": 23250.0,
       "option_type": "PE",
       "moneyness": "OTM"
     },
     "NSE_FO|56994": {
-      "premium": 118.4,
+      "premium": 100.65,
       "strike": 23300.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|56996": {
-      "premium": 143.45,
-      "strike": 23350.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|57002": {
-      "premium": 172.15,
-      "strike": 23400.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|57006": {
-      "premium": 204.15,
-      "strike": 23450.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|57022": {
-      "premium": 240.0,
-      "strike": 23500.0,
       "option_type": "PE",
       "moneyness": "ITM"
     }
@@ -184,182 +28,26 @@
   "NIFTY_WEEKLY_expiry": "2026-09-22",
   "NIFTY_MONTHLY": {
     "NSE_FO|73923": {
-      "premium": 204.8,
+      "premium": 214.15,
       "strike": 23300.0,
       "option_type": "CE",
       "moneyness": "OTM"
     },
-    "NSE_FO|73925": {
-      "premium": 178.0,
-      "strike": 23350.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73927": {
-      "premium": 151.85,
-      "strike": 23400.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73964": {
-      "premium": 129.6,
-      "strike": 23450.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73985": {
-      "premium": 109.15,
-      "strike": 23500.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73995": {
-      "premium": 91.7,
-      "strike": 23550.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|74003": {
-      "premium": 75.15,
-      "strike": 23600.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|74005": {
-      "premium": 61.45,
-      "strike": 23650.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|74007": {
-      "premium": 49.85,
-      "strike": 23700.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|74010": {
-      "premium": 41.1,
-      "strike": 23750.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73904": {
-      "premium": 360.15,
-      "strike": 23050.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|73906": {
-      "premium": 335.3,
-      "strike": 23100.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|73908": {
-      "premium": 296.6,
-      "strike": 23150.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|73910": {
-      "premium": 265.8,
-      "strike": 23200.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
     "NSE_FO|73921": {
-      "premium": 234.6,
+      "premium": 245.2,
       "strike": 23250.0,
       "option_type": "CE",
       "moneyness": "ITM"
     },
-    "NSE_FO|73896": {
-      "premium": 49.25,
-      "strike": 22800.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73898": {
-      "premium": 56.0,
-      "strike": 22850.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73900": {
-      "premium": 63.35,
-      "strike": 22900.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73902": {
-      "premium": 72.95,
-      "strike": 22950.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|65899": {
-      "premium": 83.8,
-      "strike": 23000.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73905": {
-      "premium": 93.75,
-      "strike": 23050.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73907": {
-      "premium": 107.7,
-      "strike": 23100.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73909": {
-      "premium": 122.25,
-      "strike": 23150.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|73911": {
-      "premium": 139.25,
-      "strike": 23200.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
     "NSE_FO|73922": {
-      "premium": 157.0,
+      "premium": 141.45,
       "strike": 23250.0,
       "option_type": "PE",
       "moneyness": "OTM"
     },
     "NSE_FO|73924": {
-      "premium": 178.0,
+      "premium": 160.95,
       "strike": 23300.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|73926": {
-      "premium": 199.7,
-      "strike": 23350.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|73928": {
-      "premium": 223.9,
-      "strike": 23400.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|73982": {
-      "premium": 252.2,
-      "strike": 23450.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|73994": {
-      "premium": 281.1,
-      "strike": 23500.0,
       "option_type": "PE",
       "moneyness": "ITM"
     }
@@ -367,733 +55,73 @@
   "NIFTY_MONTHLY_expiry": "2026-09-29",
   "BANKNIFTY_MONTHLY": {
     "NSE_FO|69793": {
-      "premium": 696.7,
+      "premium": 664.0,
       "strike": 56100.0,
       "option_type": "CE",
       "moneyness": "OTM"
     },
-    "NSE_FO|69795": {
-      "premium": 635.8,
-      "strike": 56200.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69797": {
-      "premium": 580.6,
-      "strike": 56300.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69799": {
-      "premium": 526.45,
-      "strike": 56400.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69801": {
-      "premium": 478.05,
-      "strike": 56500.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69803": {
-      "premium": 432.25,
-      "strike": 56600.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69806": {
-      "premium": 389.35,
-      "strike": 56700.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69808": {
-      "premium": 348.15,
-      "strike": 56800.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69811": {
-      "premium": 308.9,
-      "strike": 56900.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|52334": {
-      "premium": 275.0,
-      "strike": 57000.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69779": {
-      "premium": 999.9,
-      "strike": 55600.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|69781": {
-      "premium": 952.4,
-      "strike": 55700.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|69783": {
-      "premium": 893.9,
-      "strike": 55800.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|69785": {
-      "premium": 822.6,
-      "strike": 55900.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
     "NSE_FO|69787": {
-      "premium": 756.8,
+      "premium": 719.0,
       "strike": 56000.0,
       "option_type": "CE",
       "moneyness": "ITM"
     },
-    "NSE_FO|69772": {
-      "premium": 174.65,
-      "strike": 55100.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69774": {
-      "premium": 192.1,
-      "strike": 55200.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69776": {
-      "premium": 210.8,
-      "strike": 55300.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69778": {
-      "premium": 231.85,
-      "strike": 55400.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|52298": {
-      "premium": 254.85,
-      "strike": 55500.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69780": {
-      "premium": 279.1,
-      "strike": 55600.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69782": {
-      "premium": 305.25,
-      "strike": 55700.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69784": {
-      "premium": 336.2,
-      "strike": 55800.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|69786": {
-      "premium": 369.8,
-      "strike": 55900.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
     "NSE_FO|69792": {
-      "premium": 402.6,
+      "premium": 413.65,
       "strike": 56000.0,
       "option_type": "PE",
       "moneyness": "OTM"
     },
     "NSE_FO|69794": {
-      "premium": 441.9,
+      "premium": 453.9,
       "strike": 56100.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|69796": {
-      "premium": 482.7,
-      "strike": 56200.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|69798": {
-      "premium": 526.6,
-      "strike": 56300.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|69800": {
-      "premium": 571.65,
-      "strike": 56400.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|69802": {
-      "premium": 619.8,
-      "strike": 56500.0,
       "option_type": "PE",
       "moneyness": "ITM"
     }
   },
   "BANKNIFTY_MONTHLY_expiry": "2026-09-29",
   "SENSEX_WEEKLY": {
-    "BSE_FO|866580": {
-      "premium": 172.1,
-      "strike": 74400.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|875758": {
-      "premium": 126.2,
-      "strike": 74500.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|867178": {
-      "premium": 91.7,
-      "strike": 74600.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|877075": {
-      "premium": 65.95,
-      "strike": 74700.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|867703": {
-      "premium": 47.0,
-      "strike": 74800.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|865649": {
-      "premium": 33.3,
-      "strike": 74900.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|866787": {
-      "premium": 23.35,
-      "strike": 75000.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|864765": {
-      "premium": 16.05,
-      "strike": 75100.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|862790": {
-      "premium": 10.9,
-      "strike": 75200.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|865289": {
-      "premium": 7.3,
-      "strike": 75300.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|865354": {
-      "premium": 557.4,
-      "strike": 73900.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|878595": {
-      "premium": 471.1,
-      "strike": 74000.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|868254": {
-      "premium": 385.45,
-      "strike": 74100.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|862498": {
-      "premium": 307.2,
-      "strike": 74200.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
     "BSE_FO|869699": {
-      "premium": 234.35,
+      "premium": 14.6,
       "strike": 74300.0,
       "option_type": "CE",
       "moneyness": "ITM"
-    },
-    "BSE_FO|863555": {
-      "premium": 6.05,
-      "strike": 73400.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|866029": {
-      "premium": 8.45,
-      "strike": 73500.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|864027": {
-      "premium": 11.95,
-      "strike": 73600.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|866522": {
-      "premium": 16.6,
-      "strike": 73700.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|864509": {
-      "premium": 22.85,
-      "strike": 73800.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|862574": {
-      "premium": 32.0,
-      "strike": 73900.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|863731": {
-      "premium": 44.2,
-      "strike": 74000.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|877854": {
-      "premium": 59.95,
-      "strike": 74100.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|867901": {
-      "premium": 81.2,
-      "strike": 74200.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
     },
     "BSE_FO|862237": {
-      "premium": 108.8,
+      "premium": 0.05,
       "strike": 74300.0,
       "option_type": "PE",
       "moneyness": "OTM"
-    },
-    "BSE_FO|868482": {
-      "premium": 145.85,
-      "strike": 74400.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|862742": {
-      "premium": 198.9,
-      "strike": 74500.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|872420": {
-      "premium": 265.1,
-      "strike": 74600.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|866869": {
-      "premium": 340.05,
-      "strike": 74700.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|876539": {
-      "premium": 421.0,
-      "strike": 74800.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
     }
   },
   "SENSEX_WEEKLY_expiry": "2026-09-17",
   "SENSEX_MONTHLY": {
-    "BSE_FO|839262": {
-      "premium": 570.0,
-      "strike": 74400.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839412": {
-      "premium": 511.7,
-      "strike": 74500.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839286": {
-      "premium": 461.8,
-      "strike": 74600.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839161": {
-      "premium": 411.6,
-      "strike": 74700.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839319": {
-      "premium": 366.0,
-      "strike": 74800.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839193": {
-      "premium": 326.75,
-      "strike": 74900.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|878513": {
-      "premium": 288.25,
-      "strike": 75000.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839136": {
-      "premium": 252.4,
-      "strike": 75100.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839521": {
-      "premium": 220.15,
-      "strike": 75200.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839168": {
-      "premium": 193.1,
-      "strike": 75300.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839403": {
-      "premium": 895.0,
-      "strike": 73900.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|880060": {
-      "premium": 827.1,
-      "strike": 74000.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|839344": {
-      "premium": 755.0,
-      "strike": 74100.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|839225": {
-      "premium": 692.4,
-      "strike": 74200.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
     "BSE_FO|839378": {
-      "premium": 628.0,
+      "premium": 657.0,
       "strike": 74300.0,
       "option_type": "CE",
       "moneyness": "ITM"
-    },
-    "BSE_FO|839571": {
-      "premium": 154.6,
-      "strike": 73400.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839223": {
-      "premium": 172.25,
-      "strike": 73500.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839603": {
-      "premium": 192.0,
-      "strike": 73600.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839476": {
-      "premium": 212.65,
-      "strike": 73700.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839636": {
-      "premium": 236.0,
-      "strike": 73800.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839513": {
-      "premium": 261.7,
-      "strike": 73900.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|879485": {
-      "premium": 291.9,
-      "strike": 74000.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839449": {
-      "premium": 323.0,
-      "strike": 74100.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "BSE_FO|839328": {
-      "premium": 355.25,
-      "strike": 74200.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
     },
     "BSE_FO|839486": {
-      "premium": 396.35,
+      "premium": 354.0,
       "strike": 74300.0,
       "option_type": "PE",
       "moneyness": "OTM"
-    },
-    "BSE_FO|839360": {
-      "premium": 437.0,
-      "strike": 74400.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|839244": {
-      "premium": 481.85,
-      "strike": 74500.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|839396": {
-      "premium": 528.75,
-      "strike": 74600.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|839280": {
-      "premium": 579.7,
-      "strike": 74700.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "BSE_FO|839427": {
-      "premium": 640.65,
-      "strike": 74800.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
     }
   },
   "SENSEX_MONTHLY_expiry": "2026-09-24",
   "FINNIFTY_MONTHLY": {
-    "NSE_FO|63076": {
-      "premium": 297.0,
-      "strike": 25350.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71772": {
-      "premium": 262.95,
-      "strike": 25400.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63078": {
-      "premium": 230.7,
-      "strike": 25450.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71779": {
-      "premium": 216.55,
-      "strike": 25500.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63083": {
-      "premium": 195.0,
-      "strike": 25550.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71781": {
-      "premium": 170.0,
-      "strike": 25600.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63085": {
-      "premium": 146.75,
-      "strike": 25650.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71783": {
-      "premium": 133.8,
-      "strike": 25700.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63087": {
-      "premium": 117.2,
-      "strike": 25750.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71785": {
-      "premium": 105.1,
-      "strike": 25800.0,
-      "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71766": {
-      "premium": 428.8,
-      "strike": 25100.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|63065": {
-      "premium": 399.45,
-      "strike": 25150.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|71768": {
-      "premium": 377.0,
-      "strike": 25200.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|63067": {
-      "premium": 350.1,
-      "strike": 25250.0,
-      "option_type": "CE",
-      "moneyness": "ITM"
-    },
     "NSE_FO|71770": {
-      "premium": 327.95,
+      "premium": 319.4,
       "strike": 25300.0,
       "option_type": "CE",
       "moneyness": "ITM"
-    },
-    "NSE_FO|63058": {
-      "premium": 89.3,
-      "strike": 24850.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71763": {
-      "premium": 100.2,
-      "strike": 24900.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63060": {
-      "premium": 160.75,
-      "strike": 24950.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71765": {
-      "premium": 113.9,
-      "strike": 25000.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63064": {
-      "premium": 134.7,
-      "strike": 25050.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71767": {
-      "premium": 149.9,
-      "strike": 25100.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63066": {
-      "premium": 145.75,
-      "strike": 25150.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|71769": {
-      "premium": 173.9,
-      "strike": 25200.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|63068": {
-      "premium": 190.65,
-      "strike": 25250.0,
-      "option_type": "PE",
-      "moneyness": "OTM"
     },
     "NSE_FO|71771": {
-      "premium": 207.4,
+      "premium": 200.0,
       "strike": 25300.0,
       "option_type": "PE",
       "moneyness": "OTM"
-    },
-    "NSE_FO|63077": {
-      "premium": 227.1,
-      "strike": 25350.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|71778": {
-      "premium": 254.3,
-      "strike": 25400.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|63082": {
-      "premium": 293.9,
-      "strike": 25450.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|71780": {
-      "premium": 306.0,
-      "strike": 25500.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
-    },
-    "NSE_FO|63084": {
-      "premium": 337.25,
-      "strike": 25550.0,
-      "option_type": "PE",
-      "moneyness": "ITM"
     }
   },
   "FINNIFTY_MONTHLY_expiry": "2026-09-29"

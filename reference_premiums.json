@@ -124,12 +124,12 @@
     "timestamp": "2026-09-17T12:25:24.767526+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|73921": {
-    "premium": 231.3,
-    "timestamp": "2026-09-18T08:00:48.460941+00:00"
+    "premium": 230.65,
+    "timestamp": "2026-09-18T08:05:23.573175+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|73923": {
-    "premium": 199.2,
-    "timestamp": "2026-09-18T08:00:48.460909+00:00"
+    "premium": 195.5,
+    "timestamp": "2026-09-18T08:05:23.573141+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|73925": {
     "premium": 186.05,
@@ -224,12 +224,12 @@
     "timestamp": "2026-09-17T12:25:24.767582+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|73922": {
-    "premium": 122.0,
-    "timestamp": "2026-09-18T08:00:48.460952+00:00"
+    "premium": 122.95,
+    "timestamp": "2026-09-18T08:05:23.573184+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|73924": {
-    "premium": 140.8,
-    "timestamp": "2026-09-18T08:00:48.460964+00:00"
+    "premium": 142.8,
+    "timestamp": "2026-09-18T08:05:23.573193+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|73926": {
     "premium": 184.1,
@@ -240,12 +240,12 @@
     "timestamp": "2026-09-17T12:25:24.767605+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|69787": {
-    "premium": 783.75,
-    "timestamp": "2026-09-18T08:00:48.831071+00:00"
+    "premium": 774.7,
+    "timestamp": "2026-09-18T08:05:24.007132+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|69793": {
-    "premium": 718.4,
-    "timestamp": "2026-09-18T08:00:48.831039+00:00"
+    "premium": 705.0,
+    "timestamp": "2026-09-18T08:05:24.007098+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|69795": {
     "premium": 595.75,
@@ -340,12 +340,12 @@
     "timestamp": "2026-09-17T12:25:25.141078+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|69792": {
-    "premium": 295.8,
-    "timestamp": "2026-09-18T08:00:48.831081+00:00"
+    "premium": 300.85,
+    "timestamp": "2026-09-18T08:05:24.007141+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|69794": {
-    "premium": 328.25,
-    "timestamp": "2026-09-18T08:00:48.831091+00:00"
+    "premium": 333.5,
+    "timestamp": "2026-09-18T08:05:24.007148+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|69796": {
     "premium": 492.0,
@@ -361,7 +361,7 @@
   },
   "SENSEX_WEEKLY_BSE_FO|869699": {
     "premium": 14.6,
-    "timestamp": "2026-09-18T08:00:49.173757+00:00"
+    "timestamp": "2026-09-18T08:05:25.067358+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|866580": {
     "premium": 0.05,
@@ -461,7 +461,7 @@
   },
   "SENSEX_WEEKLY_BSE_FO|862237": {
     "premium": 0.05,
-    "timestamp": "2026-09-18T08:00:49.173786+00:00"
+    "timestamp": "2026-09-18T08:05:25.067391+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|868482": {
     "premium": 85.25,
@@ -480,8 +480,8 @@
     "timestamp": "2026-09-17T12:25:25.649061+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|839378": {
-    "premium": 598.6,
-    "timestamp": "2026-09-18T08:00:49.542628+00:00"
+    "premium": 587.35,
+    "timestamp": "2026-09-18T08:05:25.487574+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|839262": {
     "premium": 595.0,
@@ -580,8 +580,8 @@
     "timestamp": "2026-09-17T12:25:27.177647+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|839486": {
-    "premium": 290.35,
-    "timestamp": "2026-09-18T08:00:49.542657+00:00"
+    "premium": 294.25,
+    "timestamp": "2026-09-18T08:05:25.487607+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|839360": {
     "premium": 390.0,
@@ -609,7 +609,7 @@
   },
   "FINNIFTY_MONTHLY_NSE_FO|71770": {
     "premium": 382.1,
-    "timestamp": "2026-09-18T08:00:49.909569+00:00"
+    "timestamp": "2026-09-18T08:05:25.928129+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|63076": {
     "premium": 290.0,
@@ -708,8 +708,8 @@
     "timestamp": "2026-09-17T12:25:27.484875+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|71771": {
-    "premium": 130.1,
-    "timestamp": "2026-09-18T08:00:49.909615+00:00"
+    "premium": 131.7,
+    "timestamp": "2026-09-18T08:05:25.928164+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|63077": {
     "premium": 223.8,
@@ -720,12 +720,12 @@
     "timestamp": "2026-09-17T12:25:27.484910+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|56983": {
-    "premium": 146.85,
-    "timestamp": "2026-09-18T08:00:47.764325+00:00"
+    "premium": 142.5,
+    "timestamp": "2026-09-18T08:05:23.184948+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|56985": {
-    "premium": 115.35,
-    "timestamp": "2026-09-18T08:00:47.764283+00:00"
+    "premium": 111.35,
+    "timestamp": "2026-09-18T08:05:23.184907+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|56995": {
     "premium": 100.4,
@@ -820,12 +820,12 @@
     "timestamp": "2026-09-17T12:25:24.232892+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|56984": {
-    "premium": 59.25,
-    "timestamp": "2026-09-18T08:00:47.764336+00:00"
+    "premium": 60.5,
+    "timestamp": "2026-09-18T08:05:23.184956+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|56994": {
-    "premium": 77.45,
-    "timestamp": "2026-09-18T08:00:47.764345+00:00"
+    "premium": 79.35,
+    "timestamp": "2026-09-18T08:05:23.184962+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|56996": {
     "premium": 124.25,

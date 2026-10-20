@@ -1560,28 +1560,28 @@
     "timestamp": "2026-10-15T07:59:38.545441+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|47164": {
-    "premium": 70.65,
-    "timestamp": "2026-10-15T13:18:58.922151+00:00"
+    "premium": 0.05,
+    "timestamp": "2026-10-20T08:11:02.931674+00:00"
   },
   "NIFTY_WEEKLY_NSE_FO|47166": {
-    "premium": 169.1,
-    "timestamp": "2026-10-15T13:18:58.922195+00:00"
+    "premium": 160.6,
+    "timestamp": "2026-10-20T08:11:02.931700+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|51354": {
-    "premium": 170.1,
-    "timestamp": "2026-10-15T13:18:59.339999+00:00"
+    "premium": 102.8,
+    "timestamp": "2026-10-20T08:11:04.420476+00:00"
   },
   "NIFTY_MONTHLY_NSE_FO|51355": {
-    "premium": 236.05,
-    "timestamp": "2026-10-15T13:18:59.340031+00:00"
+    "premium": 255.3,
+    "timestamp": "2026-10-20T08:11:04.420501+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|49465": {
-    "premium": 574.6,
-    "timestamp": "2026-10-15T13:18:59.706645+00:00"
+    "premium": 302.8,
+    "timestamp": "2026-10-20T08:11:04.751815+00:00"
   },
   "BANKNIFTY_MONTHLY_NSE_FO|49466": {
-    "premium": 564.7,
-    "timestamp": "2026-10-15T13:18:59.706679+00:00"
+    "premium": 651.7,
+    "timestamp": "2026-10-20T08:11:04.751828+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|1116190": {
     "premium": 15.55,
@@ -1600,27 +1600,27 @@
     "timestamp": "2026-10-15T13:19:00.093316+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|864355": {
-    "premium": 660.0,
-    "timestamp": "2026-10-15T13:19:00.464867+00:00"
+    "premium": 506.45,
+    "timestamp": "2026-10-20T08:11:05.373960+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|866362": {
-    "premium": 711.7,
-    "timestamp": "2026-10-15T13:19:00.464900+00:00"
+    "premium": 554.0,
+    "timestamp": "2026-10-20T08:11:05.373973+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|863632": {
-    "premium": 791.55,
-    "timestamp": "2026-10-15T13:19:00.464907+00:00"
+    "premium": 773.8,
+    "timestamp": "2026-10-20T08:11:05.373978+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|866091": {
-    "premium": 819.25,
-    "timestamp": "2026-10-15T13:19:00.464911+00:00"
+    "premium": 828.9,
+    "timestamp": "2026-10-20T08:11:05.373981+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|50329": {
-    "premium": 273.2,
-    "timestamp": "2026-10-15T13:19:00.816863+00:00"
+    "premium": 90.05,
+    "timestamp": "2026-10-20T08:11:05.784089+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|50330": {
-    "premium": 261.15,
-    "timestamp": "2026-10-15T13:19:00.816900+00:00"
+    "premium": 447.45,
+    "timestamp": "2026-10-20T08:11:05.784101+00:00"
   }
 }

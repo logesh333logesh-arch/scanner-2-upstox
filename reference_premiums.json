@@ -1801,10 +1801,18 @@
   },
   "FINNIFTY_MONTHLY_NSE_FO|57521": {
     "premium": 0.0,
-    "timestamp": "2026-10-30T09:36:36.124396+00:00"
+    "timestamp": "2026-10-30T16:12:33.630651+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|57522": {
     "premium": 0.0,
-    "timestamp": "2026-10-30T09:36:36.124418+00:00"
+    "timestamp": "2026-10-30T16:12:33.630679+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|53924": {
+    "premium": 101.15,
+    "timestamp": "2026-10-30T16:12:31.000882+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|53925": {
+    "premium": 130.05,
+    "timestamp": "2026-10-30T16:12:31.000919+00:00"
   }
 }

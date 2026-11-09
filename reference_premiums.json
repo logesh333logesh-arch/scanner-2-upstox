@@ -2030,5 +2030,69 @@
   "FINNIFTY_MONTHLY_NSE_FO|63434": {
     "premium": 203.25,
     "timestamp": "2026-11-06T10:23:56.968551+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|40039": {
+    "premium": 0.05,
+    "timestamp": "2026-11-09T10:54:24.045617+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|40040": {
+    "premium": 5.3,
+    "timestamp": "2026-11-09T10:54:24.045650+00:00"
+  },
+  "NIFTY_MONTHLY_NSE_FO|64441": {
+    "premium": 301.7,
+    "timestamp": "2026-11-09T10:54:24.379165+00:00"
+  },
+  "NIFTY_MONTHLY_NSE_FO|64442": {
+    "premium": 326.2,
+    "timestamp": "2026-11-09T10:54:24.379192+00:00"
+  },
+  "BANKNIFTY_MONTHLY_NSE_FO|62277": {
+    "premium": 1093.15,
+    "timestamp": "2026-11-09T10:54:24.646543+00:00"
+  },
+  "BANKNIFTY_MONTHLY_NSE_FO|62278": {
+    "premium": 567.4,
+    "timestamp": "2026-11-09T10:54:24.646569+00:00"
+  },
+  "SENSEX_WEEKLY_BSE_FO|1164929": {
+    "premium": 573.05,
+    "timestamp": "2026-11-09T10:54:24.900352+00:00"
+  },
+  "SENSEX_WEEKLY_BSE_FO|1165069": {
+    "premium": 622.65,
+    "timestamp": "2026-11-09T10:54:24.900387+00:00"
+  },
+  "SENSEX_WEEKLY_BSE_FO|1165177": {
+    "premium": 550.25,
+    "timestamp": "2026-11-09T10:54:24.900393+00:00"
+  },
+  "SENSEX_WEEKLY_BSE_FO|1165049": {
+    "premium": 609.35,
+    "timestamp": "2026-11-09T10:54:24.900397+00:00"
+  },
+  "SENSEX_MONTHLY_BSE_FO|1107600": {
+    "premium": 1168.8,
+    "timestamp": "2026-11-09T10:54:25.197646+00:00"
+  },
+  "SENSEX_MONTHLY_BSE_FO|1113507": {
+    "premium": 1245.0,
+    "timestamp": "2026-11-09T10:54:25.197678+00:00"
+  },
+  "SENSEX_MONTHLY_BSE_FO|1105876": {
+    "premium": 1095.2,
+    "timestamp": "2026-11-09T10:54:25.197685+00:00"
+  },
+  "SENSEX_MONTHLY_BSE_FO|1113193": {
+    "premium": 1127.7,
+    "timestamp": "2026-11-09T10:54:25.197689+00:00"
+  },
+  "FINNIFTY_MONTHLY_NSE_FO|63449": {
+    "premium": 416.0,
+    "timestamp": "2026-11-09T10:54:25.478948+00:00"
+  },
+  "FINNIFTY_MONTHLY_NSE_FO|63450": {
+    "premium": 420.0,
+    "timestamp": "2026-11-09T10:54:25.478973+00:00"
   }
 }

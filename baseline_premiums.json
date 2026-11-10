@@ -1,19 +1,19 @@
 {
   "NIFTY_WEEKLY": {
-    "NSE_FO|40039": {
-      "premium": 0.05,
+    "NSE_FO|45388": {
+      "premium": 230.5,
       "strike": 25050.0,
       "option_type": "CE",
       "moneyness": "OTM"
     },
-    "NSE_FO|40040": {
-      "premium": 5.3,
+    "NSE_FO|45389": {
+      "premium": 261.9,
       "strike": 25050.0,
       "option_type": "PE",
       "moneyness": "ITM"
     }
   },
-  "NIFTY_WEEKLY_expiry": "2026-11-09",
+  "NIFTY_WEEKLY_expiry": "2026-11-17",
   "NIFTY_MONTHLY": {
     "NSE_FO|64441": {
       "premium": 301.7,

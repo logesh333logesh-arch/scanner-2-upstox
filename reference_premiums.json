@@ -2153,7 +2153,7 @@
   },
   "SENSEX_WEEKLY_BSE_FO|821729": {
     "premium": 10.95,
-    "timestamp": "2026-11-12T10:39:08.883568+00:00"
+    "timestamp": "2026-11-13T10:31:46.379854+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|821457": {
     "premium": 110.7,
@@ -2165,11 +2165,11 @@
   },
   "SENSEX_WEEKLY_BSE_FO|822288": {
     "premium": 0.05,
-    "timestamp": "2026-11-12T10:39:08.883610+00:00"
+    "timestamp": "2026-11-13T10:31:46.379970+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|1102614": {
-    "premium": 1116.35,
-    "timestamp": "2026-11-12T10:39:09.296327+00:00"
+    "premium": 762.45,
+    "timestamp": "2026-11-13T10:31:46.748527+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|1106588": {
     "premium": 1150.0,
@@ -2180,8 +2180,8 @@
     "timestamp": "2026-11-12T10:39:09.296365+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|1105962": {
-    "premium": 962.5,
-    "timestamp": "2026-11-12T10:39:09.296370+00:00"
+    "premium": 1020.0,
+    "timestamp": "2026-11-13T10:31:46.748680+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|57244": {
     "premium": 554.8,
@@ -2190,5 +2190,37 @@
   "FINNIFTY_MONTHLY_NSE_FO|57245": {
     "premium": 228.0,
     "timestamp": "2026-11-12T10:39:09.557478+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|45402": {
+    "premium": 77.2,
+    "timestamp": "2026-11-13T10:31:45.319276+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|45403": {
+    "premium": 224.45,
+    "timestamp": "2026-11-13T10:31:45.319410+00:00"
+  },
+  "NIFTY_MONTHLY_NSE_FO|64456": {
+    "premium": 176.4,
+    "timestamp": "2026-11-13T10:31:45.686204+00:00"
+  },
+  "NIFTY_MONTHLY_NSE_FO|64457": {
+    "premium": 307.85,
+    "timestamp": "2026-11-13T10:31:45.686308+00:00"
+  },
+  "BANKNIFTY_MONTHLY_NSE_FO|62358": {
+    "premium": 370.0,
+    "timestamp": "2026-11-13T10:31:46.039171+00:00"
+  },
+  "BANKNIFTY_MONTHLY_NSE_FO|62364": {
+    "premium": 940.0,
+    "timestamp": "2026-11-13T10:31:46.039274+00:00"
+  },
+  "FINNIFTY_MONTHLY_NSE_FO|57255": {
+    "premium": 204.2,
+    "timestamp": "2026-11-13T10:31:47.077566+00:00"
+  },
+  "FINNIFTY_MONTHLY_NSE_FO|57256": {
+    "premium": 448.5,
+    "timestamp": "2026-11-13T10:31:47.077723+00:00"
   }
 }

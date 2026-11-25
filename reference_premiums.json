@@ -2280,36 +2280,36 @@
     "timestamp": "2026-11-24T13:16:44.463806+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|1112404": {
-    "premium": 575.0,
-    "timestamp": "2026-11-24T13:16:45.433217+00:00"
+    "premium": 1536.4,
+    "timestamp": "2026-11-25T12:07:31.760795+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|1115415": {
-    "premium": 630.0,
-    "timestamp": "2026-11-24T13:16:45.433243+00:00"
+    "premium": 1641.7,
+    "timestamp": "2026-11-25T12:07:31.760821+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|1101604": {
-    "premium": 488.0,
-    "timestamp": "2026-11-24T13:16:45.433248+00:00"
+    "premium": 28.0,
+    "timestamp": "2026-11-25T12:07:31.760826+00:00"
   },
   "SENSEX_WEEKLY_BSE_FO|1115048": {
-    "premium": 528.6,
-    "timestamp": "2026-11-24T13:16:45.433253+00:00"
+    "premium": 32.15,
+    "timestamp": "2026-11-25T12:07:31.760831+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|1112404": {
-    "premium": 575.0,
-    "timestamp": "2026-11-24T13:16:45.749811+00:00"
+    "premium": 1536.4,
+    "timestamp": "2026-11-25T12:07:32.048791+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|1115415": {
-    "premium": 630.0,
-    "timestamp": "2026-11-24T13:16:45.749835+00:00"
+    "premium": 1641.7,
+    "timestamp": "2026-11-25T12:07:32.048820+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|1101604": {
-    "premium": 488.0,
-    "timestamp": "2026-11-24T13:16:45.749840+00:00"
+    "premium": 28.0,
+    "timestamp": "2026-11-25T12:07:32.048825+00:00"
   },
   "SENSEX_MONTHLY_BSE_FO|1115048": {
-    "premium": 528.6,
-    "timestamp": "2026-11-24T13:16:45.749844+00:00"
+    "premium": 32.15,
+    "timestamp": "2026-11-25T12:07:32.048829+00:00"
   },
   "FINNIFTY_MONTHLY_NSE_FO|35050": {
     "premium": 3.4,
@@ -2318,5 +2318,13 @@
   "FINNIFTY_MONTHLY_NSE_FO|35051": {
     "premium": 0.05,
     "timestamp": "2026-11-24T13:16:46.526370+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|47804": {
+    "premium": 535.2,
+    "timestamp": "2026-11-25T12:07:30.414255+00:00"
+  },
+  "NIFTY_WEEKLY_NSE_FO|47805": {
+    "premium": 58.5,
+    "timestamp": "2026-11-25T12:07:30.414292+00:00"
   }
 }

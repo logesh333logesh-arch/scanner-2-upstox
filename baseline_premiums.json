@@ -1,16 +1,16 @@
 {
   "NIFTY_WEEKLY": {
-    "NSE_FO|47804": {
-      "premium": 270.0,
-      "strike": 25350.0,
+    "NSE_FO|47839": {
+      "premium": 230.9,
+      "strike": 25800.0,
       "option_type": "CE",
-      "moneyness": "OTM"
-    },
-    "NSE_FO|47805": {
-      "premium": 229.95,
-      "strike": 25350.0,
-      "option_type": "PE",
       "moneyness": "ITM"
+    },
+    "NSE_FO|47846": {
+      "premium": 205.1,
+      "strike": 25800.0,
+      "option_type": "PE",
+      "moneyness": "OTM"
     }
   },
   "NIFTY_WEEKLY_expiry": "2026-12-01",
@@ -19,54 +19,54 @@
   "BANKNIFTY_MONTHLY": {},
   "BANKNIFTY_MONTHLY_expiry": "2027-09-28",
   "SENSEX_WEEKLY": {
-    "BSE_FO|1112404": {
-      "premium": 575.0,
-      "strike": 82500.0,
+    "BSE_FO|1118969": {
+      "premium": 391.8,
+      "strike": 84000.0,
       "option_type": "CE",
       "moneyness": "OTM"
     },
-    "BSE_FO|1115415": {
-      "premium": 630.0,
-      "strike": 82400.0,
+    "BSE_FO|1105546": {
+      "premium": 441.65,
+      "strike": 83900.0,
       "option_type": "CE",
       "moneyness": "ITM"
     },
-    "BSE_FO|1101604": {
-      "premium": 488.0,
-      "strike": 82400.0,
+    "BSE_FO|1111451": {
+      "premium": 337.6,
+      "strike": 83900.0,
       "option_type": "PE",
       "moneyness": "OTM"
     },
-    "BSE_FO|1115048": {
-      "premium": 528.6,
-      "strike": 82500.0,
+    "BSE_FO|1118225": {
+      "premium": 386.25,
+      "strike": 84000.0,
       "option_type": "PE",
       "moneyness": "ITM"
     }
   },
   "SENSEX_WEEKLY_expiry": "2026-11-26",
   "SENSEX_MONTHLY": {
-    "BSE_FO|1112404": {
-      "premium": 575.0,
-      "strike": 82500.0,
+    "BSE_FO|1118969": {
+      "premium": 391.8,
+      "strike": 84000.0,
       "option_type": "CE",
       "moneyness": "OTM"
     },
-    "BSE_FO|1115415": {
-      "premium": 630.0,
-      "strike": 82400.0,
+    "BSE_FO|1105546": {
+      "premium": 441.65,
+      "strike": 83900.0,
       "option_type": "CE",
       "moneyness": "ITM"
     },
-    "BSE_FO|1101604": {
-      "premium": 488.0,
-      "strike": 82400.0,
+    "BSE_FO|1111451": {
+      "premium": 337.6,
+      "strike": 83900.0,
       "option_type": "PE",
       "moneyness": "OTM"
     },
-    "BSE_FO|1115048": {
-      "premium": 528.6,
-      "strike": 82500.0,
+    "BSE_FO|1118225": {
+      "premium": 386.25,
+      "strike": 84000.0,
       "option_type": "PE",
       "moneyness": "ITM"
     }
